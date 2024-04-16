@@ -1,0 +1,8 @@
+body {
+	background-image: url(img/background.jpg);
+	font-family: 'Montserrat', sans-serif;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
